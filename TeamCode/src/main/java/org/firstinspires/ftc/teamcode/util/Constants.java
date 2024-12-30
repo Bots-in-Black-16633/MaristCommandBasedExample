@@ -11,6 +11,10 @@ public final class Constants {
     public static final class ArmConstants{
 
     }
+    public static final class ClawConstants{
+        public static final double open = 0;
+        public static final double close = 1;
+    }
 
 
     public static final class DriveConstants{
