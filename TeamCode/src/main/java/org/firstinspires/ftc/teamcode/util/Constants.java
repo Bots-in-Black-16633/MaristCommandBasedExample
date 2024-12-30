@@ -8,6 +8,9 @@ import org.opencv.core.Scalar;
 
 public final class Constants {
 
+    public static final class ArmConstants{
+
+    }
 
 
     public static final class DriveConstants{
