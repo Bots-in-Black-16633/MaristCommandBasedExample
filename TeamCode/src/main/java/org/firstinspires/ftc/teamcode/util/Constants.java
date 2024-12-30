@@ -9,6 +9,8 @@ import org.opencv.core.Scalar;
 public final class Constants {
 
     public static final class ArmConstants{
+        public static final int depositPosition= 300;
+        public static final int rest = 0;
 
     }
     public static final class ClawConstants{
